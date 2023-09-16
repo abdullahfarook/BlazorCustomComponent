@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorBindings.Core", "BlazorBindings.Core\BlazorBindings.Core.csproj", "{20DFDFE8-67CA-4C0D-ACB8-E8640C94176E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorComponent", "BlazorComponent\BlazorComponent.csproj", "{0AF87379-F922-4EB4-AD62-AF01B6C45019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.AspNetCore.Components", "Microsoft.AspNetCore.Components\Microsoft.AspNetCore.Components.csproj", "{20DB5639-5074-4BBD-AAA4-6A41D3664CE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20DFDFE8-67CA-4C0D-ACB8-E8640C94176E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20DFDFE8-67CA-4C0D-ACB8-E8640C94176E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20DFDFE8-67CA-4C0D-ACB8-E8640C94176E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20DFDFE8-67CA-4C0D-ACB8-E8640C94176E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AF87379-F922-4EB4-AD62-AF01B6C45019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AF87379-F922-4EB4-AD62-AF01B6C45019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AF87379-F922-4EB4-AD62-AF01B6C45019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AF87379-F922-4EB4-AD62-AF01B6C45019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20DB5639-5074-4BBD-AAA4-6A41D3664CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20DB5639-5074-4BBD-AAA4-6A41D3664CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20DB5639-5074-4BBD-AAA4-6A41D3664CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20DB5639-5074-4BBD-AAA4-6A41D3664CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
